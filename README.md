@@ -19,7 +19,7 @@ MountMore
 ## 設計書
 
 ### 機能一覧
-https://docs.google.com/spreadsheets/d/1aEmCqGi3hkHqorb54maz_J71ZRupPBR_h0h2j8X8HyY/edit#gid=0
+https://docs.google.com/spreadsheets/d/1aEmCqGi3hkHqorb54maz_J71ZRupPBR_h0h2j8X8HyY/edit?usp=sharing
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
